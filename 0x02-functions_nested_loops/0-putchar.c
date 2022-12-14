@@ -1,6 +1,3 @@
-#ifndef MAIN_H
-#define MAIN_H
-
 #include "main.h"
 
 /** main - print _putchar, followed by a newline
